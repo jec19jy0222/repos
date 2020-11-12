@@ -7,6 +7,7 @@ public class HelloWorld {
 		for(int i  = 0; i < 3; i++) {
 			System.out.println("HelloWorld");
 		}
+		System.out.println("Hello World");
 	}
 
 }
